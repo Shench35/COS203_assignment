@@ -1,4 +1,3 @@
-# Task 1: Grade Checker - Single file with functions
 
 def get_score():
     score = float(input("Enter score: "))

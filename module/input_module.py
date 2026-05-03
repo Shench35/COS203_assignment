@@ -1,4 +1,3 @@
-# input_module.py
 
 def get_score():
     score = float(input("Enter score: "))

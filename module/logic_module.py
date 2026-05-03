@@ -1,4 +1,3 @@
-# logic_module.py
 
 def get_grade(score):
     if score >= 70:

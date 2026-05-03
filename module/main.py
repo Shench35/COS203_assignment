@@ -1,4 +1,4 @@
-# main.py
+
 
 from input_module import get_score
 from logic_module import get_grade
